@@ -1,0 +1,16 @@
+# Videos to index with:  python -m scripts.ingest data/videos.txt
+# One YouTube URL or video ID per line. Lines starting with # are ignored.
+# Replace these examples with your own list (the project was built around ~15 videos).
+
+# 3Blue1Brown: Neural networks series
+https://www.youtube.com/watch?v=aircAruvnKk
+https://www.youtube.com/watch?v=IHZwWFHWa-w
+https://www.youtube.com/watch?v=Ilg3gGewQ5U
+https://www.youtube.com/watch?v=tIeHLnjs5U8
+https://www.youtube.com/watch?v=wjZofJX0v4M
+https://www.youtube.com/watch?v=eMlx5fFNoYc
+
+# Andrej Karpathy
+https://www.youtube.com/watch?v=zjkBMFhNj_g
+https://www.youtube.com/watch?v=VMj-3S1tku0
+https://www.youtube.com/watch?v=kCc8FmEb1nY
